@@ -6,6 +6,6 @@ You can find the data sources here:
 - https://engineering.purdue.edu/LASCI/research-data/outages/outagerisks
 - https://www.sciencedirect.com/science/article/pii/S2352340918307182
 
-Contributors: Wenhua Tang, Qianyu Peng, Vicky Li, Yao Liu
+Contributors: Vicky Li, Wenhua Tang, Qianyu Peng, Yao Liu
 
 You can find our project video in our repo called `cogs108-video.mp4`
