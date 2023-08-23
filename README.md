@@ -1,6 +1,6 @@
 # Power Outage Analysis
 
-The project aims to explore power outages and its cause (climate, weather, region, cause categories) and effect (duration, number of customers affected, amount of demanded power losted).
+The project dedicates to explore power outages and its cause (climate, weather, region, cause categories) and effect (duration, number of customers affected, amount of demanded power losted).
 
 You can find the data sources here:
 - https://engineering.purdue.edu/LASCI/research-data/outages/outagerisks
@@ -8,4 +8,4 @@ You can find the data sources here:
 
 Contributors: Vicky Li, Wenhua Tang, Qianyu Peng, Yao Liu
 
-You can find our project video in our repo called `cogs108-video.mp4`
+You can find our project presentation in `Presentation.mp4`
